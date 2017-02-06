@@ -1,3 +1,5 @@
-mardown: kramdown
+mardown: redcarpet
 baseurl: /industrial-washers
 exclude: ['README.md']
+
+
